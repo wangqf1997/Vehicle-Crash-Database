@@ -37,7 +37,7 @@ In folder `Vehicle Crash Database\numerical_data` you will find eight `npy` file
 
 Given below are the ratios of cases with different AIS levels in the numerical database, and distributions of occupant gender, airbag usage, and belt usage in cases with the same AIS level: (a) head; (b) neck; (c) chest.
 
-![pie](https://github.com/wangqf1997/Vehicle-Crash-Database/blob/main/README.md/image/pie.png)
+![pie](https://github.com/wangqf1997/Vehicle-Crash-Database/blob/main/pie.png)
 
 
 
